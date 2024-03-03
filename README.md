@@ -1,5 +1,10 @@
-# Hello, I'm T-Strange :computer:
+<p align="center">
+  <img src="https://i.seadn.io/gae/HdmBkaLf84iRc5vUk2maJXKzXcaHjqervzhcNpI84mLMkX83tvwpUCApYF9QUT2NZlZYgEMfC9jUTqiML9lmJZ91OF6CNXcjqEg0Eeg?auto=format&dpr=1&w=1000"/>
+</p> 
 
+<h1 align="center">Hello, I'm T-Strange </h1> 
+
+## Who am I?
 I am a recent Computer Science graduate who Majored in Cyber Security, I have a profound interest in all things tech and love solving problems. 
 
 
