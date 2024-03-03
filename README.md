@@ -51,10 +51,9 @@ Here are the tools I have had experience with work and some outside:
 [![Qualys](https://img.shields.io/badge/Qualys-yellow)](https://www.qualys.com/)
 
 ## Certifications
-I don't have any certifications right now but I am currently working on the Security+
+I don't have any certifications right now but I am currently working on the [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)](https://www.comptia.org/certifications/security)
 
 Other Certifications I will be working towards:
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)](https://www.comptia.org/certifications/security)
 [![CompTIA Pentest+](https://img.shields.io/badge/CompTIA-Pentest%2B-blue)](https://www.comptia.org/certifications/pentest)
 [![Offensive Security OSCP](https://img.shields.io/badge/Offensive%20Security-OSCP-red)](https://www.offensive-security.com/)
 [![SANS GPEN](https://img.shields.io/badge/SANS-GPEN-orange)](https://www.sans.org/cyber-security-training/courses/)
